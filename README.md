@@ -11,3 +11,5 @@ some subdomain enumeration tools get subdomains without " https or http " protoc
 so, i think u understand about this tool
 
 thanks
+
+![Alt text](https://i.ibb.co/TqcdZgv/ksnip-20231025-113405.png"Title")
