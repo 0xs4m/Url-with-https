@@ -14,4 +14,4 @@ thanks
 
 ![Alt text](https://i.ibb.co/TqcdZgv/ksnip-20231025-113405.png"Title")
 
-God bye
+Good bye
